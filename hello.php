@@ -5,3 +5,4 @@ echo "Hello World!";
 //temporary change
 //This is for the change for the temp2 commit
 //this is staged change
+//Add an author comment and include email
