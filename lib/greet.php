@@ -2,7 +2,7 @@
 
 class Greet {
 
-  function greet() {
+  public function greeting() {
     echo "Hello there!";
   }
 }
